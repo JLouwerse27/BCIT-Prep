@@ -3,7 +3,7 @@ BCIT
 TODO
 
 1T. This
-	1T.1 Put on USB stick.
+	1T.1 Put on GitHub.
 	1T.2 Create program
 	MUSTHAVES
 		1T.2.M1 The textbox
@@ -17,6 +17,13 @@ TODO
 				
 				1T.2.M1.1.1 ability to change a category's number
 					1T.2.M1.1.1.1 A number entered needs to be clickable. 
+	COOLHAVES
+		1. Make each catagory able to have a 2D dropdown
+			1.1 For example [TOFEAR: 4.5.2] "Big", may want to see the big thoughts that rack mind over time, and organize them without making a separate category underneath in a one dimensional fashion (i.e 4.5.2.1 Sep X)
+				1.1.1 It would not only make use of the empty space to the right, but also make the document less long.
+				PROBLEMS: 
+					1.1.P.1 How to save document?
+
 1. Organize class stuff
 	1.1T Read course information!
 		1.1T.1 Check Learning hub
@@ -30,7 +37,7 @@ TODO
 			1.1T.2.1 If cant find website, ask Ruben.
 		1.1T.3 Find out which classes I need to attend
 			1.1T.3.1 
-	1.1 term times
+	1.1 Term times
 		1.1.1 Start of term
 			1.1.1.1 First day of class
 			1.1.1.2 First day I need to do class work.
@@ -61,7 +68,7 @@ TODO
 		1.4.2 COMM 2216: Thorsten Ewald; 
 		1.4.3 COMP 2510: Jeeho Ryoo
 		1.4.4 COMP 2522: Akila Ramani
-		1.4.5 COMP 2714: 
+		1.4.5 COMP 2714: Alireza Davoodi
 		1.4.6 COMP 2721: Computer Organization/Architec
 	1.5 Get class dates and times
 		1.5.1 Week of Sep 4 [1.2.5.1]
@@ -76,11 +83,11 @@ TODO
 		1.6.3 COMM 2216 lab: NE12
 	1.7 Class types
 		1.7.1 COMP 2121: Math
-		MNEMONIC: "9 + 10 = 21, 9 + 10 = 21 thats Math for ya"
+			MNEMONIC: "9 + 10 = 21, 9 + 10 = 21 thats Math for ya"
 		1.7.2 COMM 2216: Communications
-		MEMORY: Like COMM 1116 but double the 11 to make 22
+			MEMORY: Like COMM 1116 but double the 11 to make 22
 		1.7.3 COMP 2510: Procedural programming
-		MEMORY: Like COMP 1510 but replace 1 with 2
+			MEMORY: Like COMP 1510 but replace 1 with 2
 		1.7.4 COMP 2522: OOP1
 		1.7.5 COMP 2714: Relational database systems
 		1.7.6 COMP 2721: Computer Organization/Architec
@@ -142,7 +149,46 @@ TODO
 		2.4.2 After depositing first cheque
 		2.4.3 Get second check from Daniel
 
-
+3. Actual course material
+	3.1 Learning hub
+		3.1.1 LH notifications
+			1 Welcome to COMP2721!
+			2 First lab Sep 7 COMP2121
+			3 No lab week 1, COMP2510
+			4 Contact info and course outline COMM2216
+			5 Comp2121Lab1 created 	
+		3.1.2 Classes
+			1 COMP2121
+				1.1 Lecture
+				1.2 Lab
+			2 COMP2216
+			3 COMP2510
+			4 COMP2522
+				4.1 COMP-2522-0- Object Oriented Programming 1 - 46383 - Lecture
+					4.1.1 "Course Home"
+					4.1.2 "Content"
+						4.1.2.1 Table of contents (66)
+						4.1.2.2 Lectures
+							4.1.2.2.1 Lecture 1
+								.1 Lecture 1 Review 1510
+								.2 Lecture 1.1 Review Class and Objects
+								.3 Lecture 1.2 Swap Example
+								.4 Lecture 1.3 Constructors Static Etc
+							4.1.2.2.2 Lecture 2
+							...
+							4.1.2.2.12 Lecture 12
+							4.1.2.2.13 GUI SWING Lecture
+							4.1.2.2.14 Lectures C
+						4.1.3 Code
+						4.1.4 Assignments
+						4.1.5 Practice
+						4.1.6 In Class Lecture Code
+				4.2 Lab module (on LH)
+			5 COMP2714
+				5.1 Lecture
+			6 COMP2721
+				6.1 Lecture
+				6.2 Lab
 3. Talkto others so as to reduce blind spots
 	3.1 Homework!!
 		3.1.1 Do homework with ohters!
@@ -158,7 +204,8 @@ TODO
 
 4. [Renamef] Computer hacks
 	4.1 need shortcut for copy and paste
-
+5. This document
+	5.1 Standardize
 
 TO FEAR
 1. Overwhelmation
@@ -252,7 +299,9 @@ TO FEAR
 						1.C.3.4.3.F1 It's just you and a screen, it's not real even if it feels like it. Porn is a replication of human connection, if you are doubtful of that why do you think you are looking at pictures of multiple naked women, and whys it that a single one never feel enough to look at. 
 			1.C.3.5
 				
-2. Avoidance of thinkfeeltask (the task at hand which undoubtedly feel and know must do; it is -the- thing to do)
+2. Missing assignments
+	2.1 Not checking learning hub
+		2.1.1
 	
 						
 2. Disappointment
@@ -296,7 +345,10 @@ TO FEAR
 			3.2.1.2 "What's the point I'm gonna
 			3.2.1.3 Not rolling wrists out.
 		3.2.2 While working out
-			3.2.2.1 Walking away from the weights without even thinking.	
+			3.2.2.1 Walking away from the weights without even thinking.
+			3.2.2.2 Spending more than 30 seconds looking for the right song.	
+		3.2.3 Getting too focused on this
+			3.2.3.1 Without a todo list for other courses, doing this.
 	3.1 Daily
 		3.1.1 Not sleeping enough
 			3.1.1.m min 5 hrs
@@ -377,7 +429,10 @@ TO FEAR
 	4.4 Competitiveness
 		4.4.1 Not working out
 			4.4.1.1 Hating the gym by not exercising my own way.
-				4.4.1.1.1 Move weights so slowly that your mind muscle connection becomes impeccable, you'll beat people in no time, but your gonna lose temporary gains for now.
+			FIX
+				4.4.1.1.F1 Move weights so slowly that your mind muscle connection becomes impeccable, you'll beat people in no time, but your gonna lose temporary gains for now.
+				4.4.1.1.F2 Get those hands in proper position when doing pushups, and ur back too.
+				
 		4.4.2 hair messy
 		4.4.3 Losing perfect attendance
 			4.4.3.1 Including being late
@@ -407,6 +462,8 @@ TO FEAR
 	4.6 Procrastinating, TOFEAR: 1.C.3.2
 	4.7 Little things
 		4.7.1 Asking someone for the location of something before not looking for it myself.
+		4.7.2 Saying accidental rude things because not think beforehand
+			4.7.2.1 Ruben offered to help me in the library 
 	4.8 Learning! [toput near top]
 		4.8.1 Memorizing words, concepts, etc rather than understanding why it is.
 		EXAMPLES
@@ -425,16 +482,18 @@ TO FEAR
 		5.C.1 Not thinking of future problems.
 		5.C.2 Secondsworth feelings
 			5.C.2.1 
-			5.C.2.N When feel fear?	
-		5.C.3 	
+			5.C.2.N When feel fear?
+		5.C.3 Napping in bed
 6. Losing relationships
 	6.1 Reg Friends 
 		6.1.1 Ray
 		TRAITS
-			6.1.1.1 Best quality 
-				6.1.1.1.1 Interesting
-			6.1.1.2 Worst quality
+			6.1.1.1 Best qualities 
+				6.1.1.1.1 Loyal
+				6.1.1.1.2 Honest
+			6.1.1.2 Worst qualities
 				6.1.1.2.1 Loud
+				6.1.1.2.2 Overshares
 			6.1.1.3 Reasons to hang out with
 		6.1.2 Ty
 			6.1.2.1 Especially at UVic
@@ -452,10 +511,11 @@ TO FEAR
 		6.1.4 Megan
 		6.1.5 Paulo
 		6.1.6 Mat
-		6.1.7 Aiden O. [losing him]
-		6.1.8 
+		6.1.7 Aiden O.
 	6.2 BCIT Friends
-		6.2.1 Sam
+		6.2.1 Ruben		
+		6.2.2 Sam
+		
 	6.3 Old friends
 		6.3.1 Chriswad
 	6.4 Distant ties
@@ -500,13 +560,18 @@ TO FEEL
 TO REMEMBER
 1. Study tricks
 	1.1 For coding while having to read from another document: shrink the coding program window (such as Notepad) so can only read the text around what you are coding.
-2. This document shouldn't feel overwhelming to read.
-3. Learn keyboard shortcuts!
-	3.1 Google chrome shortuts
-		3.1.1 New tab
-		3.1.2 New window
-3. Using (I, you... we) pronouns when talking to self is bad, it's redundant and isn't logical. It will make crazy, trust. Nigga gonna end up like Gollum if do that.
-4. Don't show this to anyone yet, trust the feeling.
+2. Learn keyboard shortcuts!
+	2.1 Google chrome
+		2.1.1 New tab
+		2.1.2 New window
+	2.2 Visual Studio Code 
+		2.2.1 Add secondary cursors: Alt + click
+		2.2.2 Switch current line
+		2.2.3 Command pallette: Ctl + Shift + P
+			PURPOSE: Shows a list of commands.
+3. This document shouldn't feel overwhelming to read.
+4. Using (I, you... we) pronouns when talking to self is bad, it's redundant and isn't logical. It will make crazy, trust. Bro gonna end up like Gollum if do that.
+5. Don't show this to anyone yet, trust the feeling.
 N. Misc
 	N.1 So that != resulting in
 		N.1.1 
