@@ -1,0 +1,544 @@
+BCIT
+
+TODO
+
+1T. This
+	1T.1 Put on USB stick.
+	1T.2 Create program
+	MUSTHAVES
+		1T.2.M1 The textbox
+			1T.2.M1.1 Categories
+				1T.2.M1.1.1 ability to write new category
+				HOW	
+					Type number?
+					Press enter and automake number?
+						
+				Does user want the categories under, that are on the same level to be a subcategory
+				
+				1T.2.M1.1.1 ability to change a category's number
+					1T.2.M1.1.1.1 A number entered needs to be clickable. 
+1. Organize class stuff
+	1.1T Read course information
+		1.1T.1 Check email!
+			1.1T.1.1 To get class #'s [1.4]
+			1.1T.1.2 To memorize class routes [1.5]
+		1.1T.2 Check course outlines
+			1.1T.2.1 If cant find website, ask Ruben.
+		1.1T.3 Find out which classes I need to attend
+			1.1T.3.1 
+	1.1 term times
+		1.1.1 Start of term
+			1.1.1.1 First day of class
+			1.1.1.2 First day I need to do class work.
+			1.1.1.3 First day something is due.
+		1.1.2 Important dates
+			1.1.2.1 Day to bring in $ - Sep 19
+			1.1.2.2 Winter break
+		1.1.3 End of term
+	1.2 Get organizers
+		CONDITION 
+			1.2.C.1 Which classes require me to write?
+				1.2.C.1.1 COMP 2121 Math
+	1.2 Draw weekly schedule
+		1.2.1 Choose paper or duotang
+			1.2.1.1 Is there one in desk?
+			1.2.1.2 Is there one in closet?
+		1.2.2 Get a pen
+		1.2.3 Find a ruler
+		1.2.4 Check	https://bss.bcit.ca/owa_prod/bwskfshd.P_CrseSchd?start_date_in=09/04/2023
+		1.2.5 Make two
+			1.2.5.1 Sep 4 - Dec 4
+				1.2.5.1.1 Week of Sep 4 is same as later ones, except Labour Day is off. 
+				1.2.5.1.d2 Weeks of Sep 11 - Dec 4
+			1.2.5.3 Week of Dec 11; last week?
+		
+	1.3 Draw monthly schedule
+	1.4 Get class #s
+		1.4.1 COMP 2121: Goran Ruzic; SW05 - 1840
+		1.4.2 COMM 2216: Thorsten Ewald; 
+		1.4.3 COMP 2510: OOP1
+
+	1.5 Get class dates and times
+		1.5.1 Week of Sep 4 [1.2.5.1]
+			1.5.1.1 COMP 2121 lec: Wed Sep 6 1030 - 1220
+			1.5.1.2 COMP 2121 lab: Thu Sep 7 1030 - 1220
+				
+		1.5.2 [1.2.5.2] Weeks of Sep 11 - Dec 4
+		1.5.3 [1.2.5.3] Week of Dec 11
+	1.6 Class locations
+		1.6.1 COMP 2121 lec: SW05 - 1840
+		1.6.2 COMP 2121 lab: NE22 - 104  
+		1.6.3 COMM 2216 lab: NE12
+	1.7 Class types
+		1.7.1 COMP 2121: Math
+		1.7.2 COMM 2216: Communications
+		1.7.3 COMP 2510: OOP1
+		1.7.4 
+	1.5 Memorize class routes
+		1.5.1 Monday
+		1.5.2 Tuesday
+		1.5.3 Wednesday: Start 1030. Go to SW5 1840, stay there both classes. End 130.
+		1.5.4 Thursday
+		1.5.5 Friday
+	1.6 Organize Learning hub
+	1.N [3]
+
+2. Financial
+	2.1 Deposit money at the bank.
+		2.1.1 First check DONE
+		2.1.1 Second check
+			2.1.1.1 Ask Daniel for it.
+		2.1.3 Get what mom owes you ~$640
+	2.2 Determine finances [costs and who's paying]
+		2.2.1 Determine all costs 
+			2.2.1.1 Costof Fall 2023 semester: $3792.64
+				2.2.1.1.1 Paid so far: $0
+		2.2.2 Talk to dad to figure out % that I pay
+	2.3 Choices to make
+		2.3.1 Move out at all this semester?
+			2.3.1.A Yes
+				WHEN	
+					2.3.1.A.W.1 ASAP?
+			2.3.1.B No
+		2.3.2 Do I buy a new Laptop?
+			2.3.2.1 [2.3.2] before sep 5?
+			2.3.2.A Yes
+			WHY
+				2.2.1.A.W1 Mousepad spazzes out
+				2.3.2.A.1 Features needed
+					2.3.2.A.1.1 Not lag
+					2.3.2.A.1.2 Needs to boot up fast
+					2.3.2.A.1.3 Needs to run multiple googlecrhome tasks and other apps. 
+					      A.1.4 Needs finger scroller like on the ThinkPad
+				2.3.2.A.A Used
+					2.3.2.A.A.1 Figure out min price
+						2.1.1A.1.1 Reputation of vendor
+					
+					2.1.1A.2 Max price $1500
+				2.2.1.A.B Not used
+					2.1.1B.1 Min price $1000
+					2.1.1B.2 Max price $2000
+			2.2.1.B No
+			WHY
+				
+				2.2.1.B.1 
+		2.2.2 Mouse
+		
+	2.4 Calculate My bank moola
+		2.4.1 Before depositing first cheque
+		2.4.2 After depositing first cheque
+		2.4.3 Get second check from Daniel
+
+3. Actual course material
+	3.1 Learning hub
+		3.1.1 Learning hub notifications
+			3.1.1.1 
+
+3. Talkto others so as to reduce blind spots
+	3.1 What are others doing that I am not?
+		3.1.1 What tech do they have?
+	3.2 People to ask
+		3.2.1 Niko
+			+a is organized
+			-v may damage rep
+		3.2.2 Reuben
+			+a is willing to help
+
+4. [Renamef] Computer hacks
+	4.1 need shortcut for copy and paste
+
+
+TO FEAR
+1. Overwhelmation
+	1.A felt only while working
+		1.A.1 Inner
+			1.A.1 "This isn't logical"
+			1.A.2 "NOT DOING MOST IMPORTANT THING RIGHT NOW" {3} 
+			1.A.3 "don't have plan!"
+				1.A.3.1 "planmaking doesn't feel right!"
+					1.A.3.1 "This shit is so obvious! Wasting time by writing it down!"
+					QUESTION What separates planning from being a waste of time vs not?
+			1.A.4 "If not nap rn means destroy body and therefore doing this wrong."
+			1.A.5 "feel like not close to another"
+				1.A.5.1 
+		1.A.2 Outer
+			1.A.2.1 Chrome tabs disorganized
+				1.A.2.1.1 Deadtab still open
+		1.A.1.1 Not knowing which of the 7 courses to work on.	
+	1.B Only while not working
+	1.1 Secondsworth [Secondly?]
+		1.1.1 Good and evil thinking and feeling it 	
+		1.1.2 Reading, seeing, hearing, something sexual 
+	FROM	
+		1.F.1 torturous Thinking
+			1.F.1.1 of past events 
+				1.F.1.1.1 "Could have done X better!"
+				CONDITION where this bad
+					1.F.1.1.1.C1 
+		1.F.1 Other People
+			1.F.1.A In their presence
+				1.F.1.A.1 Mom
+					1.F.1.A.1 While busio{1}, Mom yells JOE!
+			1.F.1.B Selfbe
+				1.F.1.B.1 Dad
+					1.F.1.B.1.1 
+					
+		1.F.2 Physical numbpain
+			1.F.2.1 Ass pain
+			1.F.2.2 Back soreness
+			1.F.2.2 Neck pain
+			1.F.2.3 Bicep weekfeel
+			1.F.2.4 Shoulder pain
+			1.F.2.5 Stomach pain
+				1.F.2.5.1 From eating then running too soon
+		1.F.3 Effects of eating
+			1.F.3.1 Felt malstomach after eating French Toast.
+	CONSEQUENCES
+		1.C.1 Immediate sense
+			1.C.1.1 "Should I do this or workout/stretch?!!" -> Feels like I can't decide if this or my body is more important
+		1.C.2 multisecondly
+			1.C.2.1 Eyelids fall
+			1.C.2.2 Head downtilts [slumps in feelspeak]
+			1.C.2.3 Put finger on eyebrow ridge
+			1.C.2.4 Rubbing
+				1.C.2.4.1 Face
+					1.C.2.4.1.1 Rubbing chin
+					1.C.2.4.2.1 Stretching nose
+			1.C.2.5 Smelling
+				1.C.2.5.1 Fingers
+			1.C.2.6 Grunt
+			1.C.2.7 Head smacking into my arm then looking at the floor
+			1.C.2.8 Clicking a google chrome tab, then another, then back to the first, really fast; frantically.
+			1.C.2.9 Clicking on different app than one I want to click on.
+				1.C.2.7.1 Then forgetting which app to open.
+			1.C.2.10 Swearing
+		1.C.3 quarterhourly
+			1.C.3.1 Focusing on productive task then forgetting what to do then going back to plan
+				1.C.3.1.1 Forgetting plan
+					1.C.3.1.1.1 [1.C.3.1]
+			1.C.3.1 lay in bed when not supposed to
+			1.C.3.2 Doing something that's productive but not priority; could be done later
+			1.C.3.3 Doing something that feels productive but isn't; could be done never
+			FROM
+				1.C.3.3.F.1 Working on priority task, now a bit off.
+				EXAMPLE
+					1.C.3.1.F.1.E.1 Making this, then seeking vocab on chatgpt 	
+			1.C.3.4 Go to a vice
+				1.C.3.4.1 YouTube
+					1.C.3.4.1 R: Fun
+						1.C.3.4.1.R.1 New yet familiar
+						1.C.3.4.1.R.2 Edutainment
+				1.C.3.4.2 IG
+				1.C.3.4.3 porn
+					FIX
+						1.C.3.4.3.F1 Its just you and a screen, it's not real even if it feels like it. This is not human connection. 
+			1.C.3.5
+				
+2. Avoidance of thinkfeeltask (the task at hand which I feel and know I must do and doesn't need thinking, it is the right thing to do)
+	
+						
+2. Disappointment
+
+	2.1 Subjective
+		2.1.1 Immediate sense
+			2.1.1.1 No feeling of progress
+			FROM
+				2.1.1.1.F.1 Making this
+				2.1.1.1.F.2 Youtube [1.C.2.1]
+				2.1.1.1.F.3 People not recognizing this work
+			2.1.1.2 Saying rude thing to mom
+			2.1.1.3 Using rude tone with mom
+				2.1.1.3.1 Responding "what?" curtly
+			2.1.1.4 Staying inside while sunny outside
+	2.2 Objective
+		2.2.1 Immediate sense
+			2.2.1.1 Think time delayed or brainfog [feelspeak]lkjuh
+		2.2.2 Comingto school while no class or not coming when is class
+		2.2.N Failing a class.
+3. Disregulation [thinkspeak] or going mad [feelspeak]
+
+	3.1 Secondly to minutely
+		3.1.1 Reacting to Computer lag!
+		FROM
+			3.1.1.F.1 "Stifling" [tobe disambiguated] fear
+		SOLUTION
+			3.1.1.S.1 Hissing; pushing air out of mouth while keeping either the Epiglottis or palatine tonsil to the back of the mouth so that the pressure of the air comes out faster; the sound is a higher pitch than normal breathing, learnt at Seikido grading to turn fear into anger.
+			
+	3.1 Dozenminutely {2}
+		3.1.1 Lethargy
+	FROM
+		3.1.F1 Staying in one place for too long
+			3.1.F1.1 Sitting in chair until legs feel bad.
+		3.1.F2 Disorganized workstation such as desk
+		3.1.F3 Potential consequences of Bad memories which pop up.
+			
+	3.2 multihourly
+		3.2.1 General
+			
+		3.2.1 While studying
+			3.2.1.1 Not stretching legs. CONSEQUENCE: they go numb.
+			3.2.1.2 "What's the point I'm gonna
+			3.2.1.3 Not rolling wrists out.
+			3.2.1.4 Becoming too obsessed with neatness
+				3.2.1.4.1 
+		3.2.2 While working out
+			3.2.2.1 Walking away from the weights without even thinking.	
+	3.1 Daily
+		3.1.1 Not sleeping enough
+			3.1.1.m min 5 hrs
+			3.1.1.M Max 9 hrs
+		3.1.2 Studying poorly
+			3.1.2.m min 6 hrs
+			3.1.2.M Max 16 hrs
+			3.1.2.1 trying to shove info down without a reason or a goal.
+			EXAMPLE
+				3.1.2.1.E.1 Notes for first lecture of COMM-1116
+						"A whole third of US government proposals are rejected because of technical noncompliance.
+						9/10 of these are rejected simply because the proposal's writing quality was off." 
+						This is just an emotional reason as to why thisclass is important, I never questioned it in the first place.
+		3.1.3 Not following a/the plan	
+		3.1.4 Not exercising
+			3.1.4.m min 30m
+			3.1.4.M Max 2 hrs
+			3.1.4.1 Not watching a video on form
+		3.1.5 Exercising but not stretching after
+			3.1.5.1 Body numbs after running for long periods suchas hour
+		3.1.5 Not going outside
+			3.1.5.1 on workday
+				3.1.5.m min 15m
+				3.1.5.M Max 1 hr
+		3.1.6 Not communicating
+		3.1.7 Wanting to watch porn
+			3.1.7.1 What do you think "porn" is? It's two or more beings or representations of beings having sex. Drawings of bodies are still bodies to your mind, it's very subjective. This is a replacement for human connection, and a terrible one at times.
+			SOLUTIONS 3.1.7.1 hang out with a friend
+		3.1.8 Not eating
+			3.1.8.1 
+		3.1.9 Not reading bible 	
+			3.1.9.1 Increase to 25 verses.
+			STRAT 
+				3.1.9.1.S.1 Do right after you get home from school.
+				3.1.9.1.S.2 Do in the morning.
+		3.1.10 Forgetting to write journal
+			3.1.10.1 STRAT Do right after you get home from school.
+	3.2 Weekly
+		3.2.1 Not being with friends
+		3.2.2 Not having time to rest a day 
+			3.2.2.1 Not gaming
+		3.2.3 Not going to church
+		3.2.4 Not writing weekly journal
+		3.2.5 Not having a sense of fun througout the week.
+				
+	3.3 Monthly
+		3.3.1 Not singing on team
+		3.3.2 Thinking that how I feel is exactly the same as how everyone on earth feels.
+		3.3.3 Feeling like only I exist, everyone else doesn't because I cannot feel them.
+
+4. [Renamef] Lowering of standards
+	4.1 From pressures of wanting to fit in
+		4.1.1 USING CHATGPT TO CHEAT
+			4.1.1.1 Boi you need to let those grades die if you can't handle basic shit.
+			4.1.1.2 If you go the evil route, you'll become dependant on GPT and forget what you're learning.
+				4.1.1.2.1 What's the point of going to BCIT if youre not learning
+					4.1.1.2.1.1 if dare say "for a job", then why do job if suck at, that will be majorityyou!
+		4.1.1 Casuals telling me I should relax (advertently or indadvertently)
+			4.1.1.1 Jason lol
+				4.1.1.1.1 Hey maybe challenge this idea!. See if he has competitive standards.
+			4.1.1.2 Savio
+				4.1.1.2.1 Asking me how I don't complain about driving and the 3 hr break.
+					4.1.1.1.2.1 And his parents let him drink at an early age.
+		4.1.2 People playing video games when I should be working
+			4.1.2.1 Markus playing Valorant
+		4.1.3 Dudes looking or talking about provocotive images
+			4.1.3.1 Be aware of this before openning discord.
+		4.1.4 Others complaining and not doing
+			4.1.4.1 Brings mood down
+			4.1.4.2 Dwelling on things that are important, but are far less useful for me to focus on than my priority (ie school work).
+				EXAMPLES
+					4.1.4.2.E.1 talking about applying to 60 jobs and only getting a few phone calls.
+						4.1.4.2.E.1 
+		4.1.5 Not listening to lecturer 
+			4.1.5.1 because others say they are X
+				4.1.5.1.1 because their voice is monotone
+					FIX Listen for important words.
+		4.1.6 People aren't asking questions or answering therfore I shouldn't
+			4.1.6.1 If the query is important
+				4.1.6.1.1 and is something other people might want to ask
+				4.1.6.1.2 and isn't something you think/know the person beside you can answer
+				then ask!
+	4.2 Physical
+		4.2.1 Posture
+			4.2.1.1 Hunched back
+			4.2.1.2 Legs curled back so that foot is balanced on balls of the feet and neck hunched forward or pitched back
+				4.2.1.2.1 Too much pressure on back 
+	4.3 Moral
+		4.3.1 Thinking of weekfolk as weak only cuz of their actions
+			4.3.1.1 The inability to understand the weak will limit your thinking, feeling, and doing to that which is standard to your group (friends, family, partners, media I consume).
+		4.3.2 Abolishment of time
+	4.4 Competitiveness
+		4.4.1 Not working out
+			4.4.1.1 Hating the gym by not exercising my own way.
+				4.4.1.1.1 Move weights so slowly that your mind muscle connection becomes impeccable, you're gonna beat people through this, but your gonna lose temporary gains for now.
+		4.4.2 hair messy
+		4.4.3 Losing perfect attendance
+			4.4.3.1 Including being late
+				4.4.3.1.1 OOFs
+					.1 Sep 7 Math lab
+					
+	4.5 thinkfeel, not exactly morally, not exactly ideologically
+		4.1.1 "Society is good"
+			4.1.1.1 all negative results are a result of my choices
+				all negative 
+			4.1.1.2 My career is a good enough representation of who I am, and people will find their way eventually.
+				CONSEQUENCE:
+					4.1.1.2.1 You will see everything as natural and be ignorant to the fundamental flaws of this.
+					4.1.1.2.2 Your definition of freedom will little by little be limited to what is normal.
+						4.1.1.2.2.1 For example, rather than making people personalized cards for their birthday, you will just buy a card
+						4.1.1.2.2.2 You will view people running in the rain as odd rather than people getting after it
+						4.1.1.2.2.3 You wont go into the park at night to see the stars because it's illegal; therefore wrong.
+		4.1.2 "Society is evil"
+			4.1.2.1 all negative results stem from the evil government and corporations
+			COUNTER
+				4.1.2.1.C.1 Governments and corporations are just concepts, they are just organized groups of people with control over people and things.
+		4.1.2 Money before good.	
+		
+	4.6 Procrastinating, TOFEAR: 1.C.3.2
+	4.7 Little things
+		4.7.1 Asking someone for the location of something before not looking for it myself.
+	4.8 Learning! [toput near top]
+		4.8.1 Memorizing words, concepts, etc rather than understanding why it is.
+		EXAMPLES
+			4.8.1.E1 Learned document.getElementsByClassName has the first "s", was merely going to memorize it, then realized "s" isthere because classes denote multiple elements, while id denotes one.
+	4.9 While working
+		4.9.1 Was procrastinating, now going back
+			4.9.1.1 TOFEAR: 1.C.2.1 `Eyelids fall`
+5. Not feeling fear; apathy?
+
+	FROM
+		5.F.1 Seeing wrong which I can help and not acting
+		5.F.2 Seeing wrong which I can help but acting with the wronged out of mind.
+	CONSEQUENCES
+		5.C.1 Not thinking of future problems.
+		5.C.2 Secondsworth feelings
+			5.C.2.1 
+			5.C.2.N When feel fear?	
+		5.C.3 	
+6. Losing relationships
+	6.1 Reg Friends 
+		6.1.1 Ray
+		TRAITS
+			6.1.1.1 Best quality 
+				6.1.1.1.1 Interesting
+			6.1.1.2 Worst quality
+				6.1.1.2.1 Loud
+			6.1.1.3 Reasons to hang out with
+		6.1.2 Ty
+			6.1.2.1 Especially at UVic
+		6.1.3 Andrew
+			6.1.3.1 Best quality
+				6.1.3.1.1 Cool
+	 		6.1.3.2 Worst quality
+				6.1.3.2 Boring
+			6.1.3.3 Reasons to hang out with
+		6.1.4 Megan
+		6.1.5 Paulo
+		6.1.6 Mat
+		6.1.7 Aiden O. [losing him]
+		6.1.8 
+	6.2 BCIT Friends
+		6.2.1 Sam
+		6.2.2 Ruben
+		6.2.3 Jason
+		6.2.4 
+	6.3 Old friends
+		6.3.1 Chriswad
+	6.3 Distant ties
+		6.3.1 Megan V.
+		6.3.2 
+
+7. Shit thoughts
+	7.1 Reocurring
+		7.1.1 I'm gonna end up like this person.
+		EXAMPLE: Thinking of Yoda's fear leads to anger lesson, and then thinking of how going to end up just like Anakin Skywalker, and then realized I am not Anakin Skywalker though, or whoever the abstractation of Anakin Skywalker represents.
+		7.1.2 "There's no point after what I did" -> `need to stop competing`
+			ARGUMENTS AGAINST 
+				7.1.2.1 You did what you did, 
+	7.2 General
+		7.2.1 After realizing stopped doing something that worked but "abandoned" it
+			7.2.1.1 "Fuck it's all over, I've failed."
+				
+			FIX
+				7.2.1.1.1 Buddy, twenty years old. Lets say 70s and over are just shit, okay that leaves 50 years to get things right.
+					7.2.1.1.1.1 Yes do realize that in saying this that may procrastinate, but competitive spirit you'll keep up with others.
+						7.1.1.1.1.1.1  but the comp
+			7.1.1.2 Not posting on art account
+				7.1.1.2.1 
+	7.3 At school
+	7.4 At home
+		7.4.1 In room
+			7.4.2 While sitting down
+				7.4.2.1 "Badfeel because haven't stretched."
+				
+		7.4.2 In garage, working out
+			7.4.2.1 
+			
+8. Not having a job in the future
+	8.1 From failing diploma
+	8.2 From not marketing myself
+		8.2.1 Ask questions that impact
+	8.N Leetcode
+
+TO FEEL
+1. 
+
+TO REMEMBER
+1. Tabs on learning hub
+	1.1 
+2. Taking notes
+	2.1 Always keep in mind how future is going to read this.
+2. Annoyances
+	2.1 
+4. Computer applications
+	4.1 Practical
+		4.1.1 Peekthrough
+		PURPOSE 
+			4.4.1.P1 Makes windows transparent
+		4.1.2 Git
+			4.1.2 Git commands
+				4.1.2.1 git pull
+				4.1.2.2 git init
+				4.1.2.3 git clone
+	4.2 Asthetic
+		4.2.1 Openshell
+		PURPOSE 
+			4.2.1.P1 
+
+TO KEEP IN MIND (MISC)
+1. This document shouldn't feel overwhelming to read.
+2. Study tricks
+	2.1 For coding while having to read from another document: shrink the coding program window (such as Notepad) so can only read the text around what you are coding. 
+	2.2 [GET NAME] Transparent window thing
+3. Using (I, you... we) pronouns when talking to self is bad, it's redundant and isn't logical. It will make crazy, trust. Gonna end up like Gollum if do that.
+4. Opportunities
+	4.1 BCIT Study thing? Thorsten said Sep 5
+5. Far in the future
+	5.1 Apply for jobs you dont even want
+
+
+TO LEARN 
+1. 
+
+
+{Contractions}:
+1. "When I am busy" -> When busio
+	Suffix -io is from Italian. 
+"Io mangio" is the I-form of the verb "mangiare", which means to eat. Since this inflected verb cointains enough information to distinguish it from the other forms such as "Tu mangi", the subject pronoun "io" can be dropped.
+Mangiare: Io mangio = mangio
+2. Dozenminutely is the contraction of "every 12 minutes", I would have done fifteenminutely or made up a word to represent a grouping of fifteen, but eh. 
+3."I'M NOT DOING THE MOST IMPORTANT THING RIGHT NOW!" 
+	This is for by, there is no need for "I", "me" -> NOT DOING THE MOST IMPORTANT THING RIGHT NOW!
+	"The most" is "the majority" or grandest	-> NOT DOING MOST IMPORTANT THING RIGHT NOW!
+
+
+
+
+
